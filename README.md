@@ -4,20 +4,11 @@ The recent methods of estimating the human posture in two-dimensional space base
 
 This project based on paper : https://arxiv.org/abs/1903.06593 and code: https://github.com/vita-epfl/openpifpaf
 
-I analyze and evaluate on datasets:
-
-4000 images COCO test-dev:
-
-2000 images sports:
-
-1000 images MPII datasets:
+I analyze and evaluate on datasets:4000 images COCO test-dev,2000 images sports,1000 images MPII datasets:
 
 Because the author focused on solving the challenge on low resolution and obscuration. I resized the images to 3 different resolutions: 256px, 321px, 641px. The author have suggested that 321px is the best but I want to experiment with 256px more, then I can conclude that 321px is the best or not.
 
-4000 images COCO test-dev (resized):
+Dataset: https://drive.google.com/drive/folders/19xFqlgraUi7BZp9VgBUY_UfC6u4gYNyY?usp=sharing
 
-2000 images sports (resized):
-
-1000 images MPII datasets (resized):
 
 
