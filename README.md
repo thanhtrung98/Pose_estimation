@@ -10,5 +10,9 @@ Because the author focused on solving the challenge on low resolution and obscur
 
 Dataset: https://drive.google.com/drive/folders/19xFqlgraUi7BZp9VgBUY_UfC6u4gYNyY?usp=sharing
 
+# Result
+Error(image) on 1000 images MPII
+<img width="1440" alt="Screen Shot 2020-10-19 at 3 28 50 PM" src="https://user-images.githubusercontent.com/43095377/96420687-ffcf6480-121f-11eb-95d4-ccf3d1698819.png">
+
 
 
