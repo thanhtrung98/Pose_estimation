@@ -49,7 +49,7 @@ Error(image) on 4000 images COCO test-dev (chart)
 
 - In terms of time, 256px is almost twice as fast as 321px.
 
-- PifPaf is often wrong in the wrong connection, missing part error, in addition, in MPII and COCO data set 256px and 321px focus on other error.
+- PifPaf is often wrong in the wrong connection, missing part error. In addition, MPII and COCO dataset 256px and 321px focus on other error.
 
 - In sports environment, PifPaf focuses on wrong connection error (60-70% of total error).
 
