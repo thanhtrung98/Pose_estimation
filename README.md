@@ -42,7 +42,7 @@ Error(image) on 4000 images COCO test-dev (chart)
 
 <img width="1427" alt="Screen Shot 2020-10-19 at 3 32 44 PM" src="https://user-images.githubusercontent.com/43095377/96421305-d19e5480-1220-11eb-97d1-4532d75af8ef.png">
 
-#Summary
+# Summary
 
 - The wrong connection and lack joint error is 256px smaller than 321px. Sometimes there is missing part.
 
