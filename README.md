@@ -17,6 +17,7 @@ Dataset: https://drive.google.com/drive/folders/19xFqlgraUi7BZp9VgBUY_UfC6u4gYNy
 Source: on PifPaf paper
 
 # Result
+This folder contains images error about wrong connection, missing part,... : https://drive.google.com/drive/folders/1z0SbuqVmpruYGFVTXLKjQKRj45kSkVqj?usp=sharing 
 
 Error(image) on 1000 images MPII (statistical)
 
