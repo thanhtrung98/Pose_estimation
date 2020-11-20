@@ -9,6 +9,7 @@ I analyze and evaluate on datasets:4000 images COCO test-dev,2000 images sports,
 Because the author focused on solving the challenge on low resolution and obscuration. I resized the images to 3 different resolutions: 256px, 321px, 641px. The author have suggested that 321px is the best but I want to experiment with 256px more, then I can conclude that 321px is the best or not.
 
 Dataset: https://drive.google.com/drive/folders/19xFqlgraUi7BZp9VgBUY_UfC6u4gYNyY?usp=sharing
+Analysis: https://drive.google.com/drive/folders/1BUkAbabOqjFUhi2_RlYds0vFS7Wg4ryB?usp=sharing
 
 # PifPaf method
 
